@@ -4,7 +4,7 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
+You have finally discovered my Github profile.
 Please feel free to clone/fork projects. <br>
 <i>Happy Coding!</i> 😊
 
